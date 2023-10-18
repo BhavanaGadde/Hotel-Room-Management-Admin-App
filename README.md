@@ -21,12 +21,12 @@ By booking we give the conformation of availability of rooms and  start time and
 we provide our best to the customers.
 Our Facilities are like free room services,complimentary wifi,free parking , Air conditioning  have at ur servicers for people.
 Discover Peaceful Serenity.
-Wishing you a journey filled with comfort, luxury, and unforgettable memories. Your adventure begins with us – enjoy every moment of your stay!"
+Wishing you a journey filled with comfort, luxury, and unforgettable memories. Your adventure begins with us  enjoy every moment of your stay!"
 OurGuests
 Great service creates great guest advocates for your hotel.
 “family travelers” doesn’t just refer to couples or single parents with children. It also includes those traveling with grandparents, uncles, aunts and cousins.
 - Family Travelers
-Business travelers are — not so surprisingly — busy. While they may want to enjoy the location they find themselves in, they usually have little time to do so because their main focus is their job. Also, due to the fact that the traveler is generally not the one paying for their stay
+Business travelers are  not so surprisingly  busy. While they may want to enjoy the location they find themselves in, they usually have little time to do so because their main focus is their job. Also, due to the fact that the traveler is generally not the one paying for their stay
 - Business Travelers
 These types of travelers expect high-quality service and are willing to spend more money in order to get it. For luxury travelers, the most important thing is comfort, and they often do ample research in advance before selecting a property at which to stay.
 - Luxury Travelers
