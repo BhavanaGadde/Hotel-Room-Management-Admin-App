@@ -25,13 +25,12 @@ Wishing you a journey filled with comfort, luxury, and unforgettable memories. Y
 OurGuests
 Great service creates great guest advocates for your hotel.
 “family travelers” doesn’t just refer to couples or single parents with children. It also includes those traveling with grandparents, uncles, aunts and cousins.
-- Family Travelers
+ Family Travelers
 Business travelers are  not so surprisingly  busy. While they may want to enjoy the location they find themselves in, they usually have little time to do so because their main focus is their job. Also, due to the fact that the traveler is generally not the one paying for their stay
-- Business Travelers
+ Business Travelers
 These types of travelers expect high-quality service and are willing to spend more money in order to get it. For luxury travelers, the most important thing is comfort, and they often do ample research in advance before selecting a property at which to stay.
-- Luxury Travelers
-  Booking Management:
-
+ Luxury Travelers
+Booking Management:
 Easily make, modify, or cancel bookings as needed.
 View comprehensive details of each reservation for better control.
 Used Web server with PHP support.
