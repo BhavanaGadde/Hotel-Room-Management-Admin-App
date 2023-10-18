@@ -3,8 +3,8 @@
 Welcome to our Hotel Room Management Admin App, a comprehensive solution designed to streamline the management of rooms within our hotel. 
 This admin-facing platform empowers hotel administrators to efficiently handle bookings, edits, deletions, and view bookings with ease. 
 
-                                                                                              THE VANTAGE HOTEL
-                                                                                  Experience the ultimate in relaxation.
+                                                                                        THE VANTAGE HOTEL
+                                                                              Experience the ultimate in relaxation.
 Welcome to V Hotel, where luxury meets comfort, and every detail is crafted to ensure a memorable stay. Our hotel is located in the heart of the city, providing easy access to key attractions, business districts, and vibrant entertainment. Witness the best of the industrial and cultural world and indulge in our world-class services at our V Hotel.
                                                                                              EXPERIENCE SERENITY
                                                                             Work, play, create, explore. BE WHAT YOU SHOULD BE.
